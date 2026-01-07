@@ -1,5 +1,5 @@
 # 🎳 Bowling 3D
-**Juego de bolos en 3D con física realista**
+**Juego de bolos con físicas en 3D**
 
 <sub><b>© 2023-2026 Gabriel Sanabria.</b> Todos los derechos reservados. | Proyecto público únicamente con fines de portafolio. | <b>NO</b> se autoriza su distribución o comercialización.</sub>
 
