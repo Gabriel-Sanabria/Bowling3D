@@ -1,7 +1,7 @@
 # 🎳 Bowling 3D
 **Juego de bolos con físicas en 3D**
-
-<sub><b>© 2020-2026 Gabriel Sanabria.</b> Todos los derechos reservados. | Proyecto público únicamente con fines de portafolio. | <b>NO</b> se autoriza su distribución o comercialización.</sub>
+<br>
+<sub>(Proyecto público únicamente con fines de portafolio. <b>NO</b> se autoriza su distribución o comercialización.)</sub>
 
 ---
 
